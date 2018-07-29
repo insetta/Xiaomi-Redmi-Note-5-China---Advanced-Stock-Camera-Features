@@ -1,7 +1,7 @@
-# Magisk Module Template
+# Redmi Note 5 Advanced Camera
 
-This `README.md` will be shown in Magisk Manager. Place any information / changelog / notes you like.
+Just install, and enjoy more features in the stock camera app.
 
-**Please update `README.md` if you want to submit your module to the online repo!**
+**ONLY FOR China/Global (whyred) version!**
 
 This modules enables some features on factory camera, like: manual mode, torch light, native 4k record, object following and so.
