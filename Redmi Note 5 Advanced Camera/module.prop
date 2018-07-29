@@ -1,0 +1,7 @@
+id=redmi_note5_advanced_camera
+name=Xiaomi Redmi Note 5 (China)- Advanced Stock Camera Features
+version=v1
+versionCode=1
+author=insetta
+description=This module enables advanced stock camera features on Whyred devices (Xiaomi Redmi Note 5 China)
+minMagisk=1500
